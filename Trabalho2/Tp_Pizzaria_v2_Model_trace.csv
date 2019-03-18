@@ -1,8 +1,0 @@
-Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0,00472356359312913;--;--;--;--;An entity's length was changed while traveling on a link
-0,00472356359312913;--;--;--;--;The length of the entity 'Worker1[2]' was changed while traveling on the link 'Path13'.
-0,00630997169195377;--;--;--;--;An entity's length was changed while traveling on a link
-0,00630997169195377;--;--;--;--;The length of the entity 'Worker1[3]' was changed while traveling on the link 'Path13'.
-0,00645505538626369;--;--;--;--;An entity's length was changed while traveling on a link
-0,00645505538626369;--;--;--;--;The length of the entity 'Worker1[2]' was changed while traveling on the link 'Path13'.
-
